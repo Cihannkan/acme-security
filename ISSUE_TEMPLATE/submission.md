@@ -8,11 +8,11 @@ assignees: ''
 
 ## 👤 Candidate Information
 
-**Full Name:** 
-**Email:** 
-**LinkedIn:** _(optional)_
-**Location:** _(optional)_
-**Submission Date:** 
+**Full Name: Cihan Kan**
+**Email: cihankan53@gmail.com** 
+**LinkedIn: https://www.linkedin.com/in/cihankan/** _(optional)_
+**Location: Istanbul** _(optional)_
+**Submission Date: 10.11.2025** 
 
 ---
 
