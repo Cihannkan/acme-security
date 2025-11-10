@@ -62,10 +62,10 @@ system contains vulnerabilities
 **Main attack vectors identified:**
 1. Phishing
 2. Insecure Direct Object References
-3. Sql Injection
+3. SQL Injection
 
 **Most critical vulnerability:**
-Sql Injection
+SQL Injection
 
 **Top recommendation:**
 Transition to a new, secure architecture aligned with zero-trust principles.
